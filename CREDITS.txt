@@ -1,0 +1,17 @@
+MANTA SCHOOL, live wallpaper for Lively
+Wallpaper by Muffism (https://github.com/Muffism)
+
+3D model
+* "MANTA" (https://sketchfab.com/3d-models/manta-cdc4752c492c43559caa4cfb528000d8)
+  by misaooo (https://sketchfab.com/misaooo), copyright misaooo.
+  Licence: CC BY NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+  Changes made for this wallpaper: textures resized and converted to WebP; the swim animation is resampled,
+  trimmed and smoothed into a seamless loop; the model is recoloured in the wallpaper (Golden option) and
+  lit by the wallpaper's own underwater lighting.
+  The model is provided as is, without warranties, as stated in the CC BY NC 4.0 licence.
+
+Software
+* three.js (https://threejs.org), MIT licence, copyright 2010 to present three.js authors.
+
+Notes
+* Because the manta model is CC BY NC 4.0, this wallpaper may be shared for free but must not be sold.

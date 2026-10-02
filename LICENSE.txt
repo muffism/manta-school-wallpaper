@@ -1,0 +1,20 @@
+MANTA SCHOOL, live wallpaper for Lively
+Copyright (c) 2026 Muffism (https://github.com/Muffism). All rights reserved.
+
+You may
+* download and use this wallpaper for free, for personal use
+* share the unchanged download with others, for free, with this licence and CREDITS.txt included
+
+You may not, without written permission from the author
+* sell this wallpaper, or include it in anything that is sold
+* modify, adapt, translate or reuse the code, in whole or in part, in other projects
+* use any part of this wallpaper (code, text, images or models) to train, fine tune or evaluate
+  artificial intelligence or machine learning systems, include it in datasets, or use AI tools to
+  analyse, modify or recreate it
+
+The 3D manta model is not covered by this licence: it is "MANTA" by misaooo, licensed CC BY NC 4.0
+(see CREDITS.txt). three.js is used under its own MIT licence.
+
+Text and data mining rights are expressly reserved (including under Article 4 of EU Directive 2019/790).
+
+Contact and support: https://ko-fi.com/muffism
