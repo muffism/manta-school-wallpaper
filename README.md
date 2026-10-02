@@ -9,8 +9,7 @@ A calm, endless school of manta rays gliding through open blue water. A free liv
 ![Manta School, default view](images/default_view.jpg)
 
 https://github.com/user-attachments/assets/cba7bce3-e832-45b7-a3cb-e5a182eabee2
-<!-- VIDEO: on github.com, edit this file and drag demo.mp4 onto this line; GitHub turns it into a video player. Then delete this comment. -->
-![Manta School in motion](images/demo.gif)
+<!-- VIDEO: on github.com, edit this file and drag demo.mp4 onto this line; GitHub turns it into a video player. Then delete this comment. --
 
 ## Download
 
